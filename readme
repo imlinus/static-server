@@ -12,7 +12,7 @@ ________________________________________________________________________
 
 mkdir modules
 cd modules
-git submodule add https://github.com/imlinus/site-generator.git
+git submodule add https://github.com/imlinus/static-server.git
 
 
 Usage
